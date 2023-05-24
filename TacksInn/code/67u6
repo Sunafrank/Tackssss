@@ -1,0 +1,74 @@
+   <div class="header">
+                <nav class="navbar navbar-expand-lg bg-body-Primary">
+                    <div class="container-fluid">
+                      <h1 class="navbar-brand" href="home.html">Tacks Inn</h1>
+                      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                      </button>
+                      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <ul class="navbar-nav me-auto mb-2 mb-lg-0 ">
+                          <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="home.html">Home</a>
+                          </li>
+                          <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                              Beverages
+                            </a>
+                            <ul class="dropdown-menu">
+                              <li><a class="dropdown-item" href="soft.html">Soft Drinks</a></li>
+                            </li>
+                            <li><a class="dropdown-item" href="beer.html">Beer</a></li>
+                            </li>
+                            <li><a class="dropdown-item" href="wine.html">Wine</a></li>
+                            </li>
+                          </ul>
+                        </li>
+                          <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                              Menu
+                            </a>
+                            <ul class="dropdown-menu">
+                              <li><a class="dropdown-item" href="burgers.html">Burgers</a></li>
+                              <li><a class="dropdown-item" href="wings.html">Wings</a></li>
+                              <li><a class="dropdown-item" href="lunch.html">Lunch Menu</a></li>
+                              <li><a class="dropdown-item" href="dinners.html">Dinners</a></li>
+                              <li><a class="dropdown-item" href="appetizers.html">Appetizers</a></li>
+                              <li><a class="dropdown-item" href="pierogies.html">Pierogies</a></li>
+                              <li><a class="dropdown-item" href="Pizza.html">Pizza</a></li>
+                              <li><a class="dropdown-item" href="Salads.html">Salads</a></li>
+                              <li><a class="dropdown-item" href="wraps.html">Wraps</a></li>
+                              <li><a class="dropdown-item" href="SandWiches.html">SandWiches</a></li>
+                              <li><a class="dropdown-item" href="SnackAtTacks.html">Snack At Tacks</a></li>
+                              <li><a class="dropdown-item" href="Soups.html">Soups</a></li>
+                              <li><a class="dropdown-item" href="sides.html">Sides</a></li>
+                            </ul>
+                          </li>
+                          <li class="nav-item">
+                            <a class="nav-link" href="code/about.html">About</a>
+                          </li>
+
+                          <li class="nav-item">
+                            <a class="nav-link" href="career.html">Careers</a>
+
+                          </li>
+
+                          <li class="nav-item">
+                            <a href="tel:814-362-1140">
+                            <ion-icon size="large" name="call-outline"></ion-icon>
+                          </a>
+                          </li>
+                          <li class="nav-item">
+                            <a href="https://www.facebook.com/tacks.inn/" target="_blank">
+                              <ion-icon size="large" name="logo-facebook"></ion-icon>
+                            </a>
+                            
+                          </li>
+                          <li class="nav-item">
+                            <a href="https://goo.gl/maps/6jvA935LEbrTEDECA?coh=178572&entry=tt" target="_blank">
+                              <ion-icon size="large" name="map-outline"></ion-icon>
+                            </a>
+                            
+                          </li>
+                        </ul>
+                       
+                  </nav>
